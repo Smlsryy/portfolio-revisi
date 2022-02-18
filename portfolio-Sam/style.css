@@ -1,0 +1,21 @@
+.jumbotron {
+  padding-top: 9rem;
+  background-color: #a8a4a4;
+}
+
+#project {
+  background-color: #a8a4a4;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.nama-sekolah {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #fff;
+}
+
+.card-text {
+  font-family: inherit;
+}
